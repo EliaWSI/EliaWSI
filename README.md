@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @EliaWSI
 - 👀 I’m interested in RaspBerry and python
 - 🌱 I’m currently learning html
-- 💞️ I’m looking to collaborate on RaspBerry
+- 💞️ I’m looking to collaborate on RaspBerry projects
 - 📫 How to reach me eliawsi@outlook.it
 
 <!---
